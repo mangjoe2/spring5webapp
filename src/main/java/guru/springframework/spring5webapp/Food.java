@@ -1,2 +1,4 @@
-package guru.springframework.spring5webapp;public class Food {
+package guru.springframework.spring5webapp;
+
+public class Food {
 }

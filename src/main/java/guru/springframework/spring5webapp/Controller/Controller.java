@@ -1,2 +1,4 @@
-package guru.springframework.spring5webapp.Controller;public class Controller {
+package guru.springframework.spring5webapp.Controller;
+
+public class Controller {
 }
